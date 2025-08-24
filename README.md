@@ -1,2 +1,4 @@
-# Student-College-ID-Offers-List-
-About:  A Collection Of All Free Student Offers &amp; Discount while you are a student.
+Student College ID Offers:
+
+
+[Polypane]([https://](https://github.com/ShreyamMaity/student-offers)|Offers LIst Is Here|
