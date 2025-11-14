@@ -14,3 +14,7 @@ Invisible Clock [ Source Code](https://github.com/sreyaslinith/invisibility-cloa
 hacking login page [Source Code](https://github.com/Pradeepraddi/Hacker_login) 
 
 my personal portfolio [link ](https://github.com/thulasicse/Thulasi-portfolio  )
+
+
+doctor strange [link]
+( https://github.com/Krishgoyal31/codes/tree/main/Magic-Palm-Real-time-Hand-Tracking-Gesture-System-main  )
